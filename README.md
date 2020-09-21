@@ -1,0 +1,2 @@
+# PHPfolder
+Internet Texnologiyalari
